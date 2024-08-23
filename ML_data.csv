@@ -409,7 +409,7 @@ Course code,Academic Year,Year,Season,Antal bestået,Antal tilmeldte,Eksamensgen
 02160,2018-2019,2019,Summer,49,54,8.0,51,Agile Object-oriented Software Development,Engelsk,10,Bachelor,Portfolio,Tilladt,Intern,Department of Applied Mathematics and Computer Science,Ikke oplyst,Nej,Ja,8.55
 02160,2019-2020,2020,Summer,55,58,9.2,55,Agile Object-oriented Software Development,Engelsk,10,Bachelor,Portfolio,Tilladt,Intern,Department of Applied Mathematics and Computer Science,Ikke oplyst,Nej,Ja,8.766666666666666
 02160,2020-2021,2021,Summer,38,44,9.2,40,Agile Object-oriented Software Development,Engelsk,10,Bachelor,Portfolio,Tilladt,Intern,Department of Applied Mathematics and Computer Science,Ikke oplyst,Nej,Ja,8.799999999999999
-02160,2021-2022,2022,Summer,52,59,9.2,53,Agile Object-oriented Software Development,Engelsk,10,Bachelor,Portfolio,Tilladt,Intern,Department of Applied Mathematics and Computer Science,Ikke oplyst,Nej,Ja,9.199999999999998
+02160,2021-2022,2022,Summer,52,59,9.2,53,Agile Object-oriented Software Development,Engelsk,10,Bachelor,Portfolio,Tilladt,Intern,Department of Applied Mathematics and Computer Science,Ikke oplyst,Nej,Ja,9.2
 02160,2022-2023,2023,Summer,43,56,8.2,52,Agile Object-oriented Software Development,Engelsk,10,Bachelor,Portfolio,Tilladt,Intern,Department of Applied Mathematics and Computer Science,Ikke oplyst,Nej,Ja,8.866666666666667
 02160,2023-2024,2024,Summer,75,79,9.5,76,Agile Object-oriented Software Development,Engelsk,10,Bachelor,Portfolio,Tilladt,Intern,Department of Applied Mathematics and Computer Science,Ikke oplyst,Nej,Ja,8.966666666666667
 02161,2017-2018,2018,Summer,107,111,8.6,107,Software Engineering 1,Dansk,5,Bachelor,Portfolio,Tilladt,Intern,Department of Applied Mathematics and Computer Science,Ikke oplyst,Nej,Ja,8.6
@@ -2010,7 +2010,7 @@ Course code,Academic Year,Year,Season,Antal bestået,Antal tilmeldte,Eksamensgen
 11430,2017-2018,2017,Winter,22,22,7.9,22,Advanced engineering geology: soil and porous rocks,Engelsk,5,Kandidat,Portfolio,Tilladt,Intern,Department of Civil and Mechanical Engineering,Ja,Nej,Ja,7.9
 11430,2018-2019,2018,Winter,19,21,7.4,21,Advanced engineering geology: soil and porous rocks,Engelsk,5,Kandidat,Portfolio,Tilladt,Intern,Department of Civil and Mechanical Engineering,Ja,Nej,Ja,7.65
 11430,2019-2020,2019,Winter,40,42,7.4,42,Advanced engineering geology: soil and porous rocks,Engelsk,5,Kandidat,Portfolio,Tilladt,Intern,Department of Civil and Mechanical Engineering,Ja,Nej,Ja,7.566666666666667
-11430,2020-2021,2020,Winter,23,26,7.4,25,Advanced engineering geology: soil and porous rocks,Engelsk,5,Kandidat,Portfolio,Tilladt,Intern,Department of Civil and Mechanical Engineering,Ja,Nej,Ja,7.400000000000001
+11430,2020-2021,2020,Winter,23,26,7.4,25,Advanced engineering geology: soil and porous rocks,Engelsk,5,Kandidat,Portfolio,Tilladt,Intern,Department of Civil and Mechanical Engineering,Ja,Nej,Ja,7.4
 11430,2021-2022,2021,Winter,16,16,8.0,16,Advanced engineering geology: soil and porous rocks,Engelsk,5,Kandidat,Portfolio,Tilladt,Intern,Department of Civil and Mechanical Engineering,Ja,Nej,Ja,7.6000000000000005
 11440,2017-2018,2017,Winter,24,34,4.8,33,Petroleum Engineering,Engelsk,5,Kandidat,Skriftlig eksamen,Tilladt,Ekstern,Department of Civil and Mechanical Engineering,Ikke oplyst,Nej,Nej,4.8
 11440,2018-2019,2018,Winter,22,25,7.0,24,Petroleum Engineering,Engelsk,5,Kandidat,Skriftlig eksamen,Tilladt,Ekstern,Department of Civil and Mechanical Engineering,Ikke oplyst,Nej,Nej,5.9
@@ -2455,7 +2455,7 @@ Course code,Academic Year,Year,Season,Antal bestået,Antal tilmeldte,Eksamensgen
 12205,2019-2020,2020,Summer,94,98,7.3,97,"Climate change – impacts, mitigation and adaptation",Engelsk,5,Bachelor,Portfolio,Tilladt,Intern,Department of Environmental and Resource Engineering,Ikke oplyst,Nej,Nej,7.2
 12205,2020-2021,2021,Summer,121,129,6.9,125,"Climate change – impacts, mitigation and adaptation",Engelsk,5,Bachelor,Portfolio,Tilladt,Intern,Department of Environmental and Resource Engineering,Ikke oplyst,Nej,Nej,7.266666666666667
 12205,2021-2022,2022,Summer,108,131,6.9,120,"Climate change – impacts, mitigation and adaptation",Engelsk,5,Bachelor,Portfolio,Tilladt,Intern,Department of Environmental and Resource Engineering,Ikke oplyst,Nej,Nej,7.033333333333334
-12205,2022-2023,2023,Summer,140,153,6.9,149,"Climate change – impacts, mitigation and adaptation",Engelsk,5,Bachelor,Portfolio,Tilladt,Intern,Department of Environmental and Resource Engineering,Ikke oplyst,Nej,Nej,6.900000000000001
+12205,2022-2023,2023,Summer,140,153,6.9,149,"Climate change – impacts, mitigation and adaptation",Engelsk,5,Bachelor,Portfolio,Tilladt,Intern,Department of Environmental and Resource Engineering,Ikke oplyst,Nej,Nej,6.9
 12205,2023-2024,2024,Summer,115,119,7.3,115,"Climate change – impacts, mitigation and adaptation",Engelsk,5,"Bachelor, Diplomingeniør",Portfolio,Tilladt,Intern,Department of Environmental and Resource Engineering,Ikke oplyst,Nej,Nej,7.033333333333334
 12210,2017-2018,2017,Winter,18,18,9.3,18,Environmental Engineering in Developing Countries,Engelsk,5,Bachelor,Portfolio,Tilladt,Intern,Department of Environmental and Resource Engineering,Måske,Ja,Nej,9.3
 12210,2018-2019,2018,Winter,28,29,8.8,28,Environmental Engineering in Developing Countries,Engelsk,5,Bachelor,Portfolio,Ikke tilladt,Intern,Department of Environmental and Resource Engineering,Måske,Ja,Nej,9.05
@@ -5696,7 +5696,7 @@ Course code,Academic Year,Year,Season,Antal bestået,Antal tilmeldte,Eksamensgen
 41660,2018-2019,2019,Summer,9,9,9.9,9,Practical surface engineering,Engelsk,5,Kandidat,Mundtlig eksamen,Tilladt,Intern,Department of Civil and Mechanical Engineering,Måske,Nej,Ja,10.100000000000001
 41661,2017-2018,2017,Winter,38,40,7.1,40,Metals Technology,Engelsk,5,Kandidat,Skriftlig og mundtlig eksamen,Ikke tilladt,Intern,Department of Civil and Mechanical Engineering,Ikke oplyst,Nej,Ja,7.1
 41661,2018-2019,2018,Winter,42,43,7.1,42,Metals technology,Engelsk,5,Kandidat,Portfolio,Ikke tilladt,Intern,Department of Civil and Mechanical Engineering,Ikke oplyst,Nej,Ja,7.1
-41661,2019-2020,2019,Winter,35,40,7.1,37,Metals technology,Engelsk,5,Kandidat,Portfolio,Ikke tilladt,Intern,Department of Civil and Mechanical Engineering,Ikke oplyst,Nej,Ja,7.099999999999999
+41661,2019-2020,2019,Winter,35,40,7.1,37,Metals technology,Engelsk,5,Kandidat,Portfolio,Ikke tilladt,Intern,Department of Civil and Mechanical Engineering,Ikke oplyst,Nej,Ja,7.1
 41661,2020-2021,2020,Winter,34,37,7.3,35,Metals technology,Engelsk,5,Kandidat,Portfolio,Ikke tilladt,Intern,Department of Civil and Mechanical Engineering,Ikke oplyst,Nej,Ja,7.166666666666667
 41661,2021-2022,2021,Winter,34,38,6.7,35,Metals technology,Engelsk,5,Kandidat,Portfolio,Tilladt,Intern,Department of Civil and Mechanical Engineering,Ikke oplyst,Nej,Ja,7.033333333333334
 41661,2022-2023,2022,Winter,27,34,6.2,33,Metals technology,Engelsk,5,Kandidat,Skriftlig eksamen,Tilladt,Intern,Department of Civil and Mechanical Engineering,Ikke oplyst,Nej,Ja,6.733333333333333
